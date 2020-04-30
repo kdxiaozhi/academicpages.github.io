@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Reserach highlights!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 [OCNN for high-resolution satellite imagery interpretation](https://github.com/kdxiaozhi/OCNN)
-======
+=
 Object-CNN (OCNN) provides a fast, accurate way for semantic labeling of satellite images while keeping detailed information (such as edges) about geographical entities. It is an easy design to support satellite imagery mapping and benchmark evaluation.
 ![Flowchart of OCNN](/images/ocnn.gif)
 
