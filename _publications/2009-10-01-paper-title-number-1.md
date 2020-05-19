@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-MeGAN
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-12
+venue: 'IEEE Transactions on Geoscience and Remote Sensing'
+paperurl: 'https://ieeexplore.ieee.org/document/8937747'
+citation: 'Wenzhi Zhao, et al. (2019). &quot;Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Change detection by comparing two bitemporal images is one of the most fundamental challenges for dynamic monitoring of the Earth surface. In this article, we propose a metric learning-based generative adversarial network (GAN) (MeGAN) to automatically explore seasonal invariant features for pseudochange suppressing and real change detection. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wenzhi Zhao, et al. (2019). "Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection" <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).
