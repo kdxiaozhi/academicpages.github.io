@@ -10,6 +10,6 @@ citation: 'Wenzhi Zhao, et al. (2019). &quot;Incorporating Metric Learning and A
 ---
 Change detection by comparing two bitemporal images is one of the most fundamental challenges for dynamic monitoring of the Earth surface. In this article, we propose a metric learning-based generative adversarial network (GAN) (MeGAN) to automatically explore seasonal invariant features for pseudochange suppressing and real change detection. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8937747)
 
 Recommended citation: Wenzhi Zhao, et al. (2019). "Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection" <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).
