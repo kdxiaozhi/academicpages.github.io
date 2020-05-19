@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+Seasonal invariant change detection with bitemporal images
+------
+
+Change detection by comparing two bitemporal images is one of the most fundamental challenges for dynamic monitoring of the Earth surface. To serve this purpose, we proposed a metric learning-based generative adversarial network (GAN) (MeGAN) to automatically explore seasonal invariant features for pseudo change suppressing and real change detection. The MeGAN has the following contributions: 1) it automatically explores change patterns from the complex bitemporal background without human intervention and 2) it aims to maximally exclude pseudochanges from the seasonal transition term and map out real changes efficiently.
+
+![Seasonal invariant change detection results. (Left: inputs, middle: pesudo changes, right: detected changes.)](/images/MeGAN.gif)
+
+Reference paper: [Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection, IEEE TGRS, 58(4), 2720 - 2731.](https://ieeexplore.ieee.org/document/8937747)
+
 OCNN for high-resolution satellite imagery interpretation
 ------
 Object-CNN (OCNN) provides a fast, accurate way for semantic labeling of satellite images while keeping detailed information (such as edges) about geographical entities. Different from the conventional CNN, we integrated the idea of OBIA and deep feature learning for improved image classification. It is an easy design to support satellite imagery mapping and benchmark evaluation.
