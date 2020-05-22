@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Research highlights!"
-excerpt: "Research highlights!"
+title: "Biography"
+excerpt: "Wenzhi Zhao"
 author_profile: true
 redirect_from: 
   - /about/
