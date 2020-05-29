@@ -3,7 +3,7 @@ title: "Incorporating Metric Learning and Adversarial Network for Seasonal Invar
 collection: publications
 permalink: /publication/2020-MeGAN
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-12
+date: 2019-12-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://ieeexplore.ieee.org/document/8937747'
 citation: 'Wenzhi Zhao, et al. (2019). &quot;Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).'
