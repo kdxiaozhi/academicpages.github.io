@@ -2,7 +2,7 @@
 title: "Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection"
 collection: publications
 permalink: /publication/2020-MeGAN
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the bi-temporal imagery change detection.'
 date: 2019-12-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://ieeexplore.ieee.org/document/8937747'
