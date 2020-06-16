@@ -1,0 +1,15 @@
+---
+title: Spectral–spatial feature extraction for hyperspectral image classification: A dimension reduction and deep learning approach"
+collection: publications
+permalink: /publication/2016-SS
+excerpt: 'This paper is about the first application of CNN in remote sensing image classification.'
+date: 2015-10-01
+venue: 'IEEE Transactions on Geoscience and Remote Sensing'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7450160/'
+citation: 'Your Name, You. (2015). &quot;Spectral–spatial feature extraction for hyperspectral image classification: A dimension reduction and deep learning approach.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).'
+---
+In this paper, we propose a spectral-spatial feature based classification (SSFC) framework that jointly uses dimension reduction and deep learning techniques for spectral and spatial feature extraction, respectively. In this framework, a balanced local discriminant embedding algorithm is proposed for spectral feature extraction from high-dimensional hyperspectral data sets.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/7450160/)
+
+Recommended citation: Your Name, You. (2015). "Spectral–spatial feature extraction for hyperspectral image classification: A dimension reduction and deep learning approach." <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).
