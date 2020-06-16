@@ -3,7 +3,7 @@ title: Spectral–spatial feature extraction for hyperspectral image classificat
 collection: publications
 permalink: /publication/2016-SS
 excerpt: 'This paper is about the first application of CNN in remote sensing image classification.'
-date: 2015-10-01
+date: 2016-04-08
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7450160/'
 citation: 'Your Name, You. (2015). &quot;Spectral–spatial feature extraction for hyperspectral image classification: A dimension reduction and deep learning approach.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 54(8).'
