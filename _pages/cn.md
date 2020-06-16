@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "Wenzhi Zhao"
+title: "ä¸ªäººç®€åŽ†"
+excerpt: "èµµæ–‡æ™º"
 author_profile: true
 redirect_from: 
   - /cn/
   - /cn.html
 ---
 
-²âÊÔÖÐÎÄ
+æµ‹è¯•ä¸­æ–‡
 ------
 
 Change detection by comparing two bitemporal images is one of the most fundamental challenges for dynamic monitoring of the Earth surface. To serve this purpose, we proposed a metric learning-based generative adversarial network (GAN) (MeGAN) to automatically explore seasonal invariant features for pseudo change suppressing and real change detection. The MeGAN has the following contributions: 1) it automatically explores change patterns from the complex bitemporal background without human intervention and 2) it aims to maximally exclude pseudochanges from the seasonal transition term and map out real changes efficiently.
@@ -26,7 +26,7 @@ Reference paper: [Object-Based Convolutional Neural Network for High-Resolution 
 
 Urban scene recognition with deeply transfered OSM data
 ------
-Urban scenes refer to city blocks which are basic units of megacities, they play an important role in citizensâ€?welfare and city management. We present a hierarchical framework to transfer the existing OSM data to high-resolution images for semantic element determination and urban scene understanding. Two contributions have been made 1). it proposes a transfer learning strategy to boost deep learning-based image classification by transferring OSM prior knowledge to remote sensing images; 2). it proposes an effective bottom-up method for urban scene recognition by considering the spatial distributions of detected semantic objects. 
+Urban scenes refer to city blocks which are basic units of megacities, they play an important role in citizensÃ¢â‚¬?welfare and city management. We present a hierarchical framework to transfer the existing OSM data to high-resolution images for semantic element determination and urban scene understanding. Two contributions have been made 1). it proposes a transfer learning strategy to boost deep learning-based image classification by transferring OSM prior knowledge to remote sensing images; 2). it proposes an effective bottom-up method for urban scene recognition by considering the spatial distributions of detected semantic objects. 
 
 ![Flowchart of Urban scene recognition](/images/urban.png)
 
