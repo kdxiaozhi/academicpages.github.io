@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Learning multiscale and deep representations for classifying remotely sensed imagery"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2016Multi
+excerpt: 'This paper is about learning multiscale feature for remote sensing image classification.'
+date: 2016-03-01
+venue: 'ISPRS Journal of Photogrammetry and Remote Sensing'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0924271616000137'
+citation: 'Zhao W. (2016). &quot;Paper Learning multiscale and deep representations for classifying remotely sensed imagery.&quot; <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>. 113.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+It is widely agreed that spatial features can be combined with spectral properties for improving interpretation performances on very-high-resolution (VHR) images in urban areas. However, many existing methods for extracting spatial features can only generate low-level features and consider limited scales, leading to unpleasant classification results. 
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0924271616000137)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2010). "Learning multiscale and deep representations for classifying remotely sensed imagery." <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>. 113.
