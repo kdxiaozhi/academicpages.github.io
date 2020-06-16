@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /cn/
 title: "个人简历"
 excerpt: "赵文智"
 author_profile: true
 redirect_from: 
-  - /cn/
   - /cn.html
 ---
 
