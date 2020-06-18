@@ -17,23 +17,11 @@ Currently, I am a Lecturer in the Faculty of Geographical Science at Beijing Nor
 Research Interests
 ======
 <img src='/images/research_interest.png' align="right" width="350" height="200" style="vertical-align:middle;margin:0px 30px"> My research interest lies in Earth Observation Big Data Mining and Artifical Interlligence Algorithms in Satellite data interpretation. My research interests include
-
 * Multi-sensor data fusion 
 * Time-series imagery processing 
 * High-resolution imagery understanding
 * Deep learning applications in remote sensing
 
-
-Education
-======
-* Joint Ph.D in Aerospace Engineering Sciences, University of Colorado at Boulder, 2017
-* Ph.D in Cartography and GIS, Peking University, 2018
-* B.S. in Remote Sensing, Shandong University of Science and Technology, 2013
-
-
-Work experience
-======
-* 2018-present: Lecturer, Faculty of Geographical Science, Beijing Normal University
 
 
 Publications
