@@ -22,7 +22,16 @@ Research Interests
 * High-resolution imagery understanding
 * Deep learning applications in remote sensing
 
+Education
+======
+* Joint Ph.D in Aerospace Engineering Sciences, University of Colorado at Boulder, 2017
+* Ph.D in Cartography and GIS, Peking University, 2018
+* B.S. in Remote Sensing, Shandong University of Science and Technology, 2013
 
+
+Work experience
+======
+* 2018-present: Lecturer, Faculty of Geographical Science, Beijing Normal University
 
 Publications
 ======
