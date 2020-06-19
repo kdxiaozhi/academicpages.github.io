@@ -11,7 +11,7 @@ redirect_from:
 ------
 赵文智，北京师范大学地理科学学部讲师。主要从事遥感大数据智能分析与信息提取方面研究。承担了国家重点研发计划、遥感科学国家重点实验室开放基金和中国博士后科学基金等多项科研项目，以第一作者身份发表学术论文13篇，高被引论文2篇。
 
--![#f03c15](学生招募)`#f03c15`
+![学生招募](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "学生招募")
 ------
 预计2020-2021年招募1-2名客座研究生，开展人工智能算法与遥感大数据相关领域研究，要求包括：
 * 兴趣导向(highly-motivated)
@@ -35,7 +35,7 @@ redirect_from:
 
 |        | 题目 |
 |   :-:    | -       |  
-| <img src='/images/data_fusion/sar_optical_time_series.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Yang Qu, Jiage Chen，Zhanliang Yuan. <br><br> [__Deeply synergistic optical and SAR time series for crop dynamic monitoring (accepted)__] <br><br>  _Remote Sensing of Environment. <br><br> 论文亮点：提出多源异构数据深度协同算法，充分挖掘了语言转换模型的优势，构建了基于深度卷积网络和循环神经网络的多模态复合模型，在一定程度上跨越了SAR-光学数据鸿沟。|
+| <img src='/images/data_fusion/sar_optical_time_series.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Yang Qu, Jiage Chen，Zhanliang Yuan. <br><br> __Deeply synergistic optical and SAR time series for crop dynamic monitoring (accepted)__ <br><br>  _Remote Sensing of Environment._ <br><br> __论文亮点：__ 提出多源异构数据深度协同算法，充分挖掘了语言转换模型的优势，构建了基于深度卷积网络和循环神经网络的多模态复合模型，在一定程度上跨越了SAR-光学数据鸿沟。|
 
 
 
@@ -43,7 +43,7 @@ redirect_from:
 
 |        | 题目 |
 |   :-:    | -       |  
-| <img src='/images/time_series/MeGAN_frame.jpg' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Lichao Mou, Jiage Chen, Yanchen Bo, William J Emery. <br><br> [__Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection__] <br><br>  _IEEE Transactions on Geoscience and Remote Sensing. <br><br> 论文亮点：通过结合度量学习与生成对抗网络，实现小样本支持下的时空信息的动态提取，剔除季节及噪声导致的伪变化，准确识别不同时相遥感影像的潜在变化区域。|
+| <img src='/images/time_series/MeGAN_frame.jpg' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Lichao Mou, Jiage Chen, Yanchen Bo, William J Emery. <br><br> __Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection__ <br><br>  _IEEE Transactions on Geoscience and Remote Sensing._ <br><br> __论文亮点：__ 通过结合度量学习与生成对抗网络，实现小样本支持下的时空信息的动态提取，剔除季节及噪声导致的伪变化，准确识别不同时相遥感影像的潜在变化区域。|
 
 
 
@@ -51,7 +51,7 @@ redirect_from:
 
 |        | 题目 |
 |   :-:    | -       |  
-| <img src='/images/urban.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Yanchen Bo, Jiage Chen, Dirk Tiede, Blaschke Thomas, William J Emery. <br><br> [__Exploring semantic elements for urban scene recognition: Deep integration of high-resolution imagery and OpenStreetMap (OSM)__] <br><br>  _ISPRS Journal of Photogrammetry and Remote Sensing. <br><br> 论文亮点：借助OSM数据样本及语义优势，构建高分辨率遥感影像分类及语义理解框架，实现了北京地区单栋建筑识别与功能类型标注。|
-| <img src='/images/im_inter/contextual_CNN.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__,  Shihong Du, Qiao Wang, William J Emery. <br><br> [__Contextually guided very-high-resolution imagery classification with semantic segments__] <br><br>  _ISPRS Journal of Photogrammetry and Remote Sensing. <br><br> 论文亮点：基于面向对象卷积神经网络算法，引入图计算理论，利用地物空间关系优化分类结果，实现高分辨率遥感影像高精度、自动化制图。|
-| <img src='/images/ocnn.gif' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Shihong Du, William J Emery. <br><br> [__Object-based convolutional neural network for high-resolution imagery classification__] <br><br>  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. <br><br> 论文亮点：提出面向对象卷积神经网络算法，通过融合面向对象与深度学习优势，克服了深度学习分类过程中特征模糊的问题，显著提高了遥感影像分类精度。|
+| <img src='/images/urban.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Yanchen Bo, Jiage Chen, Dirk Tiede, Blaschke Thomas, William J Emery. <br><br> __Exploring semantic elements for urban scene recognition: Deep integration of high-resolution imagery and OpenStreetMap (OSM)__ <br><br>  _ISPRS Journal of Photogrammetry and Remote Sensing._ <br><br> __论文亮点：__ 借助OSM数据样本及语义优势，构建高分辨率遥感影像分类及语义理解框架，实现了北京地区单栋建筑识别与功能类型标注。|
+| <img src='/images/im_inter/contextual_CNN.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__,  Shihong Du, Qiao Wang, William J Emery. <br><br> __Contextually guided very-high-resolution imagery classification with semantic segments__ <br><br>  _ISPRS Journal of Photogrammetry and Remote Sensing._ <br><br> __论文亮点：__ 基于面向对象卷积神经网络算法，引入图计算理论，利用地物空间关系优化分类结果，实现高分辨率遥感影像高精度、自动化制图。|
+| <img src='/images/ocnn.gif' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Shihong Du, William J Emery. <br><br> __Object-based convolutional neural network for high-resolution imagery classification__ <br><br>  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing._ <br><br> __论文亮点：__ 提出面向对象卷积神经网络算法，通过融合面向对象与深度学习优势，克服了深度学习分类过程中特征模糊的问题，显著提高了遥感影像分类精度。|
 
