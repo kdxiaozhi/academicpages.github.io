@@ -1,6 +1,6 @@
 ---
 permalink: /cn/
-title: "学术主页"
+title: "学术主页（中文）"
 excerpt: "赵文智"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 ------
 赵文智，北京师范大学地理科学学部讲师。主要从事遥感大数据智能分析与信息提取方面研究。承担了国家重点研发计划、遥感科学国家重点实验室开放基金和中国博士后科学基金等多项科研项目，以第一作者身份发表学术论文13篇，高被引论文2篇。
 
-![学生招募](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "学生招募")
+*学生招募*
 ------
 预计2020-2021年招募1-2名客座研究生，开展人工智能算法与遥感大数据相关领域研究，要求包括：
 * 兴趣导向(highly-motivated)
@@ -21,7 +21,7 @@ redirect_from:
 
 研究领域
 ------
-<img src='/images/research_directions_cn.png ' align="center" width="350" height="250">
+<img src='/images/research_direction_cn.png ' align="center" width="350" height="250">
 
 “__数据海量-信息爆炸-知识难寻__”是遥感大数据时代所面临的新挑战，如何在海量卫星数据中快速、准确的挖掘时空动态信息将为生态系统保护、人居环境监测、应急管理与减灾等提供重要的数据保障。本人在空间数据智能处理与分析领域进行了持续研究，具体的研究方向包括：
 * 多源遥感数据协同
