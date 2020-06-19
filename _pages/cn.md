@@ -21,7 +21,9 @@ redirect_from:
 
 研究领域
 ------
-<img src='/images/research_direction_cn.png ' align="center" width="350" height="250">
+<p align="center">
+  <img width="460" height="300" src="/images/research_direction_cn.png">
+</p>
 
 “__数据海量-信息爆炸-知识难寻__”是遥感大数据时代所面临的新挑战，如何在海量卫星数据中快速、准确的挖掘时空动态信息将为生态系统保护、人居环境监测、应急管理与减灾等提供重要的数据保障。本人在空间数据智能处理与分析领域进行了持续研究，具体的研究方向包括：
 * 多源遥感数据协同
