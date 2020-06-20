@@ -11,7 +11,7 @@ redirect_from:
 ------
 赵文智，北京师范大学地理科学学部讲师。主要从事遥感大数据智能分析与信息提取方面研究。承担了国家重点研发计划、遥感科学国家重点实验室开放基金和中国博士后科学基金等多项科研项目，以第一作者身份发表学术论文13篇，高被引论文2篇。
 
-学生招募 <img width="35" height="35" src="/images/rocket.png">
+<img width="35" height="35" src="/images/rocket.png"> 学生招募 
 ------
 __预计2020-2021年招募1-2名客座研究生，开展人工智能算法与遥感大数据相关领域研究，要求包括：__ 
 * 兴趣导向(highly-motivated)
@@ -57,3 +57,7 @@ __预计2020-2021年招募1-2名客座研究生，开展人工智能算法与遥
 | <img src='/images/im_inter/contextual_CNN.png' align="center" width="200" height="10"> |  __Wenzhi Zhao__,  Shihong Du, Qiao Wang, William J Emery. <br><br> __Contextually guided very-high-resolution imagery classification with semantic segments__ <br><br>  _ISPRS Journal of Photogrammetry and Remote Sensing._ <br><br> __论文亮点：__ 基于面向对象卷积神经网络算法，引入图计算理论，利用地物空间关系优化分类结果，实现高分辨率遥感影像高精度、自动化制图。|
 | <img src='/images/ocnn.gif' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Shihong Du, William J Emery. <br><br> __Object-based convolutional neural network for high-resolution imagery classification__ <br><br>  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing._ <br><br> __论文亮点：__ 提出面向对象卷积神经网络算法，通过融合面向对象与深度学习优势，克服了深度学习分类过程中特征模糊的问题，显著提高了遥感影像分类精度。|
 
+在读学生
+------
+* 屈炀（18级客座研究生，研究方向：SAR-光学数据协同，已发表SCI论文2篇）
+* 陈曦（18级客座研究生，研究方向：深度学习与变化检测，已发表SCI论文1篇）
