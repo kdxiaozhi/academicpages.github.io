@@ -11,7 +11,8 @@ redirect_from:
 Cropland change detection with harmonic function and generative adversarial network (CropGAN)
 ------
 GAN has been widely applied in semi-supervised learning, sample generation, and image classification. Meanwhile, GAN has been adopted to detect changes from binary images, and it overcomes the difficulty caused by training sample shortage. Still, the utilization of GAN models for time-series change detection remains unexploited. Different from binary image change detection, the time-series data demonstrates the phenological processes of cropland are much more complex in terms of change detection. To remedy this, the self-attention GAN is introduced to generate realistic samples for efficient change detection with time-series data.
-![The general workflow of the CropGAN for crop change detection.)](/images/time_series/cropgan.png | height=500)
+![The general workflow of the CropGAN for crop change detection.)](/images/time_series/cropgan1.png)
+
 Reference paper: [Cropland change detection with harmonic function and generative adversarial network, GRSL.]
 
 Crop Mapping from Sentinel-1 Polarimetric Time-Series with a Deep Neural Network
