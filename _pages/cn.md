@@ -39,7 +39,7 @@ redirect_from:
 |        | 题目 |
 |   :-:    | -       |  
 | <img src='/images/time_series/MeGAN_frame.jpg' align="center" width="200" height="10"> |  __Wenzhi Zhao__, Lichao Mou, Jiage Chen, Yanchen Bo, William J Emery. <br><br> __Incorporating Metric Learning and Adversarial Network for Seasonal Invariant Change Detection__ <br><br>  _IEEE Transactions on Geoscience and Remote Sensing._ <br><br> __论文亮点：__ 通过结合度量学习与生成对抗网络，实现小样本支持下的时空信息的动态提取，剔除季节及噪声导致的伪变化，准确识别不同时相遥感影像的潜在变化区域。|
-| <img src='/images/time_series/cropgan1.jpg' align="center" width="200" height="10"> |  Jiage Chen, __Wenzhi Zhao__, Xi Chen. <br><br> __Cropland change detection with harmonic function and generative adversarial network (CropGAN)__ <br><br>  _IEEE GEOSCIENCE AND REMOTE SENSING LETTERS._ <br><br> __论文亮点：__ 提出一种半监督的时序变化检测算法，利用多谐波函数拟合时序信号缺失值并剔除噪声，构建GAN框架扩充扩充变化类型样本库，从而准确识别时序变化信息。|
+| <img src='/images/time_series/cropgan1.png' align="center" width="200" height="10"> |  Jiage Chen, __Wenzhi Zhao__, Xi Chen. <br><br> __Cropland change detection with harmonic function and generative adversarial network (CropGAN)__ <br><br>  _IEEE GEOSCIENCE AND REMOTE SENSING LETTERS._ <br><br> __论文亮点：__ 提出一种半监督的时序变化检测算法，利用多谐波函数拟合时序信号缺失值并剔除噪声，构建GAN框架扩充扩充变化类型样本库，从而准确识别时序变化信息。|
 
 
 
